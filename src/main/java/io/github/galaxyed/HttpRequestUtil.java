@@ -1,4 +1,4 @@
-package com.galaxyed;
+package io.github.galaxyed;
 
 import com.google.gson.Gson;
 

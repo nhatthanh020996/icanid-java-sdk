@@ -1,5 +1,5 @@
-import com.galaxyed.Auth;
-import com.galaxyed.IdSdk;
+import io.github.galaxyed.Auth;
+import io.github.galaxyed.IdSdk;
 
 import java.util.Map;
 

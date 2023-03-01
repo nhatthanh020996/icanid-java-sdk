@@ -1,4 +1,4 @@
-package com.galaxyed;
+package io.github.galaxyed;
 
 import java.time.LocalDateTime;
 

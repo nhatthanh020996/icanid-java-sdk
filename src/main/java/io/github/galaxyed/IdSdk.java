@@ -1,8 +1,7 @@
-package com.galaxyed;
+package io.github.galaxyed;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;
-import java.text.ParseException;
 import java.util.Map;
 
 public class IdSdk {
